@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/thomasong/workplace/rose/paoding-rose/paoding-rose-hello/build'
+let g:netrw_dirhist_2='/usr/local/Cellar/php56/5.6.14/php/php'
+let g:netrw_dirhist_3='/usr/local/etc/nginx'
+let g:netrw_dirhist_4='/Users/thomasong/6c'
+let g:netrw_dirhist_5='/usr/local/etc/nginx'
+let g:netrw_dirhist_6='/usr/local/etc'
+let g:netrw_dirhist_7='/Users/thomasong/workplace/cgr'
+let g:netrw_dirhist_8='/Users/thomasong/workplace/21textv3'
